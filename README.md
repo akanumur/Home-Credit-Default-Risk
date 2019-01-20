@@ -45,4 +45,4 @@ This file contains descriptions for the columns in the various data files.
 Data : https://www.kaggle.com/c/home-credit-default-risk
 
 LEARNING FROM PROJECT :
-Data Claning , Handling Missing Data and Outliers, R , Clustering
+Data Cleaning , Handling Missing Data and Outliers, R , Clustering
